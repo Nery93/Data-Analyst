@@ -86,9 +86,7 @@ section{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-image: url('/personal\ website\ design/img/bg_data1.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
+	background: #023E8A;
 
 }
 
